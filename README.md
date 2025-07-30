@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there I'm Matteo👋
 
+I’m a Junior Developer restarting my coding journey after a break.  
+📜 **Certified in:** Python | HTML | CSS | JavaScript  
+🚀 **Currently exploring:** new programming languages & AI Agents  
+🌱 **Passionate about:** Pproblem solving & Marketing
+<!-- 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/your-username) | [Portfolio](https://your-username.github.io/portfolio) -->
 <!--
 **Matteo5500/Matteo5500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
