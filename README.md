@@ -1,7 +1,7 @@
 ## Hi there I'm Matteo👋
 
 I’m a Junior Developer restarting my coding journey after a break.  
-📜 **Certified in:** Python | HTML | CSS | JavaScript  
+📜 **Certified in:** Python | HTML | SQL | CSS | JavaScript  
 🚀 **Currently exploring:** new programming languages & AI Agents  
 🌱 **Passionate about:** Problem solving & Marketing
 <!-- 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/your-username) | [Portfolio](https://your-username.github.io/portfolio) -->
